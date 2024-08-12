@@ -1,4 +1,5 @@
 data/fplreview.csv
 data/tff_model_output.csv
+data/tff_squads.json
 tmp
 HiGHS.log
